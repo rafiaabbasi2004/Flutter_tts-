@@ -3,6 +3,7 @@ A flutter app integrating flutter tts plugin
 
 # How to setup
 clone the project in android studio
+</br>
 run on vm or web browser
 
 # Main Functionalities
